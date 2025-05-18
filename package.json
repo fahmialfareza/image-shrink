@@ -24,5 +24,9 @@
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.2",
     "slash": "^3.0.0"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "pnpm": "9.5.0"
   }
 }
